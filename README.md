@@ -2,7 +2,7 @@
 
 _This repository is needs cleaning. Please re-visit in a few weeks!_
 
-This MATLAB file estimates time-frequency distribution of SCG signals using Short-time Fourier transform, chirplet transform, and smoothed-pseudo Wigner-Ville distribution.
+This repository estimates time-frequency distribution of SCG signals using Short-time Fourier transform, chirplet transform, and smoothed-pseudo Wigner-Ville distribution.
 
 ## Example
 Clone this repository. Set the MATLAB directory to this clone. Adjust the values of the input parameters of the _featureExtr.m_, and run the following command:
