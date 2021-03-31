@@ -1,6 +1,6 @@
 # Time-frequency estimation of SCG signals
 
-_This repository is under heavy revision. Please re-visit in a few weeks!_
+_This repository is needs cleaning. Please re-visit in a few weeks!_
 
 This MATLAB file estimates time-frequency distribution of SCG signals using Short-time Fourier transform, chirplet transform, and smoothed-pseudo Wigner-Ville distribution.
 
